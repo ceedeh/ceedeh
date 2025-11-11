@@ -1,6 +1,6 @@
 ### Hello, welcome to my page.
 
-I am Chimezie, a software engineer writing production grade applications using NodeJs, Go and ReactJS.
+I am Chimezie, a software engineer with vast experience building scalable solutions.
 
 My current obsessions are:
 
